@@ -1,224 +1,734 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720374280780 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720414209120 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374283847 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414212185 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374286901 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414215255 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374289950 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414218303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374293024 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414221355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374296085 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414224427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374299156 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414227646 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374302262 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414230722 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374305441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414233765 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374308598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414236846 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374311645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414239919 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374314702 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414242973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374317753 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414246026 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374320807 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414249092 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374323857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414252172 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374326911 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414255247 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374329967 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414258344 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374333026 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414261389 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374336149 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414264471 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374339190 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414267532 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374342240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414270605 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374345276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414273659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374348390 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414276697 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374351476 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414279744 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374354510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414282812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374357564 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414285890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374360676 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414288941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374363750 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414292012 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374366883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414295056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374369938 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414298112 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374373047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414301188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374376170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414304273 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374379212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414307345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374382276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414310410 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374385343 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414313440 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374388374 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414316473 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374391428 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414319555 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374394478 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414322627 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374397582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414325694 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374400633 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414328770 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374403692 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414331834 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374406760 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414334930 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374409819 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414337988 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374412896 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414341039 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720374415959 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720414344111 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414347203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414350264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414353316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414356371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414359425 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414362468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414365515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414368652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414371700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414374758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414377793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414380853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414383928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414387053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414390143 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414393194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414396271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414399358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414402445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414405481 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414408522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414411622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414414664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414417715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414420769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414423819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414426870 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414429929 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414433053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414436094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414439144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414442181 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414445221 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414448252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414451298 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414454349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414457408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414460463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414463523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414466565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414469611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414472670 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414475717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414478772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414481821 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414484857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414487889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414490928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414493959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414496997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414500056 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414503164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414506199 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414509270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414512353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414515412 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414518489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414521540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414524602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414527655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414530703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414533771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414536895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414539969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414543026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414546105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414549181 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414552247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414555297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414558360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414561432 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414564530 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414567586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414570620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414573652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414576685 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414579717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414582760 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414585804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414588895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414591944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414594996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414598044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414601079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414604135 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414607173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414610240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414613300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414616367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414619412 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414622493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414625567 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414628629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414631723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414634776 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414637867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414640914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414643950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414646990 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414650029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414653083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+family-territory.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1720414656238 tunnel running, 1 tunnels registered
 
 
 TUNNELS
